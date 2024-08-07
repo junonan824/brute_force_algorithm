@@ -22,3 +22,8 @@ This project demonstrates different graph algorithms to find paths and traverse 
    ```bash
    git clone <repository-url>
    cd my_graph_project
+2.	Ensure you have Python installed (preferably 3.x).
+3.	Run the test script to see all algorithms in action:
+   ```
+python3 test_algorithms.py
+```
